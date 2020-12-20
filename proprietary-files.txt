@@ -40,7 +40,7 @@ system_ext/lib64/vendor.qti.gnss@3.0.so|c0655559a8aae4d076b77746f177d5c2a0563d9a
 system_ext/lib64/vendor.qti.gnss@4.0.so|5d79f57d3207844e4d6b2f870e382f175b9793ad
 -system_ext/framework/com.qti.location.sdk.jar|2dded16e1c29778ce80cc36b325fdd06b49f3b6b
 -system_ext/framework/izat.xt.srv.jar|3cc7358eeb134a1d8bf32e425097ddb945e52055
--system_ext/priv-app/com.qualcomm.location/com.qualcomm.location.apk;PRESIGNED|970cb1d800fe66518d47570c76156b8781e4804f
+-system_ext/priv-app/com.qualcomm.location/com.qualcomm.location.apk|970cb1d800fe66518d47570c76156b8781e4804f
 
 # Perf
 lib64/vendor.qti.hardware.iop@1.0.so
@@ -205,29 +205,29 @@ system_ext/lib64/vendor.qti.ims.rcsconfig@2.0.so|bb94be53fe9f52ed4b69dc42493ac6c
 system_ext/lib64/vendor.qti.ims.rcsconfig@2.1.so|94ee2757393b29787ff96a8694c95a7d7d8d7319
 system_ext/lib64/vendor.qti.imsrtpservice@3.0.so|393c5affc1e8e36470705ec44396d1ffa603a541
 system_ext/lib64/vendor.qti.latency@2.0.so|d388f7b44e439f19562065aa2935fae7318a22fb
--product/app/CallFeaturesSetting/CallFeaturesSetting.apk;PRESIGNED|ed1a47a49658ecf1fe1af0946296f129a778654f
+-product/app/CallFeaturesSetting/CallFeaturesSetting.apk|ed1a47a49658ecf1fe1af0946296f129a778654f
 -system/framework/tcmclient.jar|22858e8bb7e3f956e487dc6764ad8250f118d7ac
--system_ext/app/ConfURIDialer/ConfURIDialer.apk;PRESIGNED|142b9682aa157ec74200b837a95330d6b9a581bd
--system_ext/app/ConferenceDialer/ConferenceDialer.apk;PRESIGNED|966cf65739fe27368a962f25b1cbbd8be771063c
--system_ext/app/DeviceInfo/DeviceInfo.apk;PRESIGNED|2935a77ef12655867d5b1e2e8af36ce31afc2d1e
--system_ext/app/DeviceStatisticsService/DeviceStatisticsService.apk;PRESIGNED|ab5b82684b127511c925d97d8c0d00875634c4a9
--system_ext/app/DynamicDDSService/DynamicDDSService.apk;PRESIGNED|4a71ff2800a3591c3bfcec8eae9a049aeda096bc
--system_ext/app/NetworkSetting/NetworkSetting.apk;PRESIGNED|88c861e3d1829c445876136d9c06b9800161f891
--system_ext/app/QtiSystemService/QtiSystemService.apk;PRESIGNED|9051f44277f1b8f320ff934297ba359d599b937a
--system_ext/app/QtiTelephonyService/QtiTelephonyService.apk;PRESIGNED|cce98c4a86b38837f114b6c61e4b536cd06bf82c
--system_ext/app/SimSettings/SimSettings.apk;PRESIGNED|dc0422aba54a82185260748a5ce62b9babd7c913
--system_ext/app/atfwd/atfwd.apk;PRESIGNED|659176c5fbc807e689ecded2234515cee732f684
--system_ext/app/datastatusnotification/datastatusnotification.apk;PRESIGNED|27cbbc2e54bb10d79b1610c299fbfb9c6edbf99d
--system_ext/app/embms/embms.apk;PRESIGNED|76122573a366eb3e102610ab82203fa45c970979
--system_ext/app/imssettings/imssettings.apk;PRESIGNED|4880478ae78b4578904855d116d72954f8fe3738
--system_ext/app/remoteSimLockAuthentication/remoteSimLockAuthentication.apk;PRESIGNED|3ec7ba081138560b1d0dd3ba78fd3898127a76a7
--system_ext/app/remotesimlockservice/remotesimlockservice.apk;PRESIGNED|e7b6b8c28c7ca39774d4938bc406df97559c95e3
--system_ext/app/uceShimService/uceShimService.apk;PRESIGNED|ee2ef8765913f46163567de5e710dcaa04f07f91
--system_ext/app/uimgbaservice/uimgbaservice.apk;PRESIGNED|1e92f4eb736375c6f36fe8e280da57c489319324
--system_ext/app/uimlpaservice/uimlpaservice.apk;PRESIGNED|872dd1078cc705d72431da3fd5aed68ab9960a6d
--system_ext/app/uimremoteclient/uimremoteclient.apk;PRESIGNED|8cffa35efb0267e144c9b0886f77fd77d0e02c6d
--system_ext/app/uimremoteserver/uimremoteserver.apk;PRESIGNED|d9212d348f6c98d028af13d42801effbf5b0f0a2
--system_ext/app/xdivert/xdivert.apk;PRESIGNED|09730bcf43ceff7858710676f17a8f8431446feb
+-system_ext/app/ConfURIDialer/ConfURIDialer.apk|142b9682aa157ec74200b837a95330d6b9a581bd
+-system_ext/app/ConferenceDialer/ConferenceDialer.apk|966cf65739fe27368a962f25b1cbbd8be771063c
+-system_ext/app/DeviceInfo/DeviceInfo.apk|2935a77ef12655867d5b1e2e8af36ce31afc2d1e
+-system_ext/app/DeviceStatisticsService/DeviceStatisticsService.apk|ab5b82684b127511c925d97d8c0d00875634c4a9
+-system_ext/app/DynamicDDSService/DynamicDDSService.apk|4a71ff2800a3591c3bfcec8eae9a049aeda096bc
+-system_ext/app/NetworkSetting/NetworkSetting.apk|88c861e3d1829c445876136d9c06b9800161f891
+-system_ext/app/QtiSystemService/QtiSystemService.apk|9051f44277f1b8f320ff934297ba359d599b937a
+-system_ext/app/QtiTelephonyService/QtiTelephonyService.apk|cce98c4a86b38837f114b6c61e4b536cd06bf82c
+-system_ext/app/SimSettings/SimSettings.apk|dc0422aba54a82185260748a5ce62b9babd7c913
+-system_ext/app/atfwd/atfwd.apk|659176c5fbc807e689ecded2234515cee732f684
+-system_ext/app/datastatusnotification/datastatusnotification.apk|27cbbc2e54bb10d79b1610c299fbfb9c6edbf99d
+-system_ext/app/embms/embms.apk|76122573a366eb3e102610ab82203fa45c970979
+-system_ext/app/imssettings/imssettings.apk|4880478ae78b4578904855d116d72954f8fe3738
+-system_ext/app/remoteSimLockAuthentication/remoteSimLockAuthentication.apk|3ec7ba081138560b1d0dd3ba78fd3898127a76a7
+-system_ext/app/remotesimlockservice/remotesimlockservice.apk|e7b6b8c28c7ca39774d4938bc406df97559c95e3
+-system_ext/app/uceShimService/uceShimService.apk|ee2ef8765913f46163567de5e710dcaa04f07f91
+-system_ext/app/uimgbaservice/uimgbaservice.apk|1e92f4eb736375c6f36fe8e280da57c489319324
+-system_ext/app/uimlpaservice/uimlpaservice.apk|872dd1078cc705d72431da3fd5aed68ab9960a6d
+-system_ext/app/uimremoteclient/uimremoteclient.apk|8cffa35efb0267e144c9b0886f77fd77d0e02c6d
+-system_ext/app/uimremoteserver/uimremoteserver.apk|d9212d348f6c98d028af13d42801effbf5b0f0a2
+-system_ext/app/xdivert/xdivert.apk|09730bcf43ceff7858710676f17a8f8431446feb
 -system_ext/framework/ActivityExt.jar|600d424efb6a3c2353386c94128bc0e36ad169f1
 -system_ext/framework/com.qti.dpmframework.jar|6c2a814d2a1b175b5be47640d75ebf7d23435a5a
 -system_ext/framework/com.qualcomm.qti.imscmservice-V2.0-java.jar|477df747aa42254f2bd51b32275bf160d76104b7
@@ -262,10 +262,10 @@ system_ext/lib64/vendor.qti.latency@2.0.so|d388f7b44e439f19562065aa2935fae7318a2
 -system_ext/framework/vendor.qti.ims.rcsconfig-V2.0-java.jar|2a9fb94dd98ee98c8e5ca8fb4bca99e41d39c2de
 -system_ext/framework/vendor.qti.ims.rcsconfig-V2.1-java.jar|c5a9ba4679a57c871ce7426975a6e9575b128a5f
 -system_ext/framework/vendor.qti.latency-V2.0-java.jar|f37e41c0c7189de55180c1c085afd8190127aaf3
--system_ext/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk;PRESIGNED|276d5d249921e02e08f14600aa25cad03d7deae8
--system_ext/priv-app/dpmserviceapp/dpmserviceapp.apk;PRESIGNED|6bccb28994dd8505ef53fe4ffcd13d6e83088049
--system_ext/priv-app/ims/ims.apk;PRESIGNED|ec0b132c336cfb52dd6b0cd83b4660cb42e1514c
--system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk;PRESIGNED|4f2e166f4094ae07e1bd75ec5e4bd74610ee8ebc
+-system_ext/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk|276d5d249921e02e08f14600aa25cad03d7deae8
+-system_ext/priv-app/dpmserviceapp/dpmserviceapp.apk|6bccb28994dd8505ef53fe4ffcd13d6e83088049
+-system_ext/priv-app/ims/ims.apk|ec0b132c336cfb52dd6b0cd83b4660cb42e1514c
+-system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk|4f2e166f4094ae07e1bd75ec5e4bd74610ee8ebc
 
 # Telephony - diag - LA.QSSI.11.0.r1-05600-qssi.0
 system_ext/bin/diag_callback_sample_system|bc9cca0f6841c414fc50676396315aed4d1d36b4
