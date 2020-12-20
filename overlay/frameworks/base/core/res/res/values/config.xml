@@ -480,10 +480,4 @@
 
     <!-- Whether the new Auto Selection Network UI should be shown -->
     <bool name="config_enableNewAutoSelectNetworkUI">true</bool>
-
-    <!-- Applications which are disabled unless matching a particular sku -->
-    <string-array name="config_disableApksUnlessMatchedSku_apk_list" translatable="false">
-        <item>com.qualcomm.qti.performancemode</item>
-        <item>org.codeaurora.ims</item>
-    </string-array>
 </resources>
