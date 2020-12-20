@@ -40,6 +40,7 @@ def AddImageRadio(info, basename, dest):
 def OTA_InstallEnd(info):
   info.script.Print("Patching firmware images...")
   AddImage(info, "vbmeta.img", "/dev/block/bootdevice/by-name/vbmeta")
+  AddImage(info, "dtbo.img", "/dev/block/bootdevice/by-name/dtbo")
   AddImageRadio(info, "vendor.img", "/dev/block/bootdevice/by-name/vendor")
   AddImageRadio(info, "modem.img", "/dev/block/bootdevice/by-name/modem")
   AddImageRadio(info, "tz.mbn", "/dev/block/bootdevice/by-name/tz")
